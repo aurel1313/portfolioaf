@@ -1,0 +1,51 @@
+{
+    "config":{
+        "default":"fr"
+    },
+    "language":{
+        
+        "fr":{
+          "#menu3":"accueil",
+          "#menu2": "Competences",
+          "#menu1":"formations",
+          "#menu4":"projets",
+          "#menu5":"centre d'interets",
+          "#titre":"Aurélien Fabre,etudiant en BTS SIO à Bressuire",
+          "#bienvenue":"Bienvenue sur mon portfolio",
+          "#projet":"projets",
+          ".projet1":"projet excel/VBA",
+          ".projet2":"projet web",
+          "#competences":"competences",
+          ".cv":"telecharger mon cv",
+          "#progression":"language de Programmation",
+          "#log":"logiciels",
+          "#texte1":"traitements de textes",
+          "#texte2":"editeurs de textes",
+          "#texte3":"serveurs web",
+          ".formation":"formations"
+
+          
+
+    },
+    "en":{
+        "#menu3":"home",
+        "#menu2":"skills",
+        "#menu1":"training",
+        "#menu4":"projects",
+        "#menu5":"center of interest",
+        "#titre":"Aurélien Fabre, BTS SIO student in Bressuire",
+        "#bienvenue":"welcome to my portfolio",
+        "#projet":"projects",
+        ".projet1":"VBA/excel project",
+        ".projet2":"web project",
+        "#competences":"skills",
+        ".cv":"download my CV",
+        "#progression":"programming language",
+        "#log":"software",
+        "#texte1":"word processing",
+        "#texte2":"text editor",
+        "#texte3":"web server",
+        ".formation":"training"
+    }
+  } 
+}
